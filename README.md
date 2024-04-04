@@ -1,5 +1,5 @@
 # MPMB-Thaevur/Iron Sphere
-Adds the Thaevur/Iron Sphere from a video on Ed Greenwood's YouTube channel to the MPMB Character Sheets. This item is likely an April Fools joke by Ed Greenwood, but I thought it was interesting enough to code into reality, taking inspiration for the mechanics of this Thaevur/Iron Sphere from a comment on the video by the user "Pelinore Geryon" (@pelinoregeryon6593) that mentions 1st edition variants of Ioun Stones.
+Adds the Thaevur/Iron Sphere from a video on Ed Greenwood's YouTube channel to the MPMB Character Sheets. I can't find any reference to this item as it is described in the video on the internet, so I feel like this item is likely an April Fools joke by Ed Greenwood. However, I thought it was interesting enough to code into reality, taking inspiration for the mechanics of this Thaevur/Iron Sphere from a comment on the video by the user "Pelinore Geryon" (@pelinoregeryon6593) that mentions 1st edition variants of Ioun Stones. Since no mention is made of how to the Thaevur/Iron Spheres recover from an overloaded state and/or become able to absorb more magic again aside from a line that they "use the absorbed magic to stay afloat" (paraphrased quote), I made the decision to say that they use 1d12 SL of stored magic per day to do just that.
 
 **Known Bugs:**
 - No known bugs at this time. Will update when any are found.
