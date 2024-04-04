@@ -21,7 +21,7 @@ Into the surface of the sphere is carved a word in Common; speaking the word alo
 
 When not confined such that the sphere cannot orbit its bearer, any spell that targets the sphere, its bearer, or that includes the sphere or its bearer in its AOE is absorbed by the sphere.
 
-The bearer can use a Bonus Action to will the sphere to "turn off or on" to either allow or disallow spells to be cast on the bearer. The bearer can also use their Bonus Action to revoke their status as the sphere's bearer, which causes the sphere to stop floating in the same manner as when overloaded or exhasuted of magical energy, as described below.
+The bearer can use a Bonus Action to will the sphere to "turn off or on" to either allow or disallow spells to be cast on the bearer. The bearer can also use their Bonus Action to revoke their status as the sphere's bearer, which causes the sphere to stop floating in the same manner as when overloaded or exhausted of magical energy, as described below.
 
 When the sphere is exhausted of its stored magic or is overloaded beyond its magical storage capacity, it will sink down to the nearest surface directly below itself.
 
