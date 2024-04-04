@@ -24,7 +24,7 @@ When not confined such that the sphere cannot orbit its bearer, any spell that t
 
 The bearer can use a Bonus Action to will the sphere to "turn off or on" to either allow or disallow spells to be cast on the bearer. The bearer can also use their Bonus Action to revoke their status as the sphere's bearer, which causes the sphere to stop floating in the same manner as when overloaded or exhasuted of magical energy, as described below.
 
-When the sphere is exhausted of its stored magic or is overloaded beyond its magical storage capacity, it will sink to the nearest surface below itself.
+When the sphere is exhausted of its stored magic or is overloaded beyond its magical storage capacity, it will sink down to the nearest surface directly below itself.
 
 Depending on the rarity of the sphere, the sphere can absorb the following, rolled upon generation of the sphere by the DM or upon a sphere's creation:
 - 3d10+10 SL of 4th Lvl or lower (Rare)
