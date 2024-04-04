@@ -30,6 +30,7 @@ Depending on the rarity of the sphere, the sphere can absorb the following, exac
 - 3d10+10 SL of 4th Lvl or lower (Rare)
 - 4d10+20 SL of 6th Lvl or lower (Very Rare)
 - 5d10+30 SL of 8th Lvl or lower (Legendary)
+
 The last charge is enough to absorb any spell of a spell level that the sphere is capable of absorbing. The sphere will use 1d12 stored SL per day to stay afloat.
 
 If multiple spheres are in a position to absorb a spell, only one sphere chosen at random will absorb that spell.
