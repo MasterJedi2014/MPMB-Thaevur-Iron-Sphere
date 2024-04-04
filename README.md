@@ -15,7 +15,7 @@ For instructions on how to add this script to the sheet, please see this page: h
 
 **Attunement:** No
 
-**Description:** A grapefruit sized or smaller sphere of a non-ferrous material & of a dark brown, rust hued, or black color that can absorb the magic of spells. These spheres are commonly referred to as "Iron Spheres", though a more accurate, but far lesser known, name for these spheres is "Thaevur Spheres".
+**Description:** A grapefruit sized or smaller sphere of a non-ferrous material & of a dark brown, rust hued, or black color that can absorb the magic of spells. These spheres are commonly referred to as "Iron Spheres", though a more accurate, but far lesser known, name for these spheres would be "Thaevur Spheres".
 
 Into the surface of the sphere is carved a word in Common; speaking the word aloud while holding the sphere causes the speaker to become the sphere's "bearer", at which point the sphere will begin orbiting their torso.
 
