@@ -8,10 +8,9 @@ Adds the Thaevur/Iron Sphere from a video on Ed Greenwood's YouTube channel to t
 
 For instructions on how to add this script to the sheet, please see this page: https://www.flapkan.com/how-to/add-more-content
 
-# *D&D: 5E* style item description:
+***D&D: 5E*** **style item description:**
 
-**Thaevur/Iron Sphere**
-
+# Thaevur/Iron Sphere
 *Wondrous item, rare/very rare/legendary*
 
 **Attunement:** No
