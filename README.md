@@ -26,7 +26,7 @@ The bearer can use a Bonus Action to will the sphere to "turn off or on" to eith
 
 When the sphere is exhausted of its stored magic or is overloaded beyond its magical storage capacity, it will sink down to the nearest surface directly below itself.
 
-Depending on the rarity of the sphere, the sphere can absorb the following, rolled upon generation of the sphere by the DM or upon a sphere's creation:
+Depending on the rarity of the sphere, the sphere can absorb the following, exact amounts rolled upon generation of the sphere by the DM or upon a sphere's creation:
 - 3d10+10 SL of 4th Lvl or lower (Rare)
 - 4d10+20 SL of 6th Lvl or lower (Very Rare)
 - 5d10+30 SL of 8th Lvl or lower (Legendary)
