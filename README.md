@@ -14,7 +14,6 @@ For instructions on how to add this script to the sheet, please see this page: h
 
 *Wondrous item, rare/very rare/legendary*
 
-
 **Attunement:** No
 
 **Description:** A grapefruit sized or smaller sphere of a non-ferrous material & of a dark brown, rust hued, or black color that can absorb the magic of spells.
